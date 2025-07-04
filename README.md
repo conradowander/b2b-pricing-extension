@@ -1,11 +1,11 @@
 # Salesforce B2B Pricing Extension
 
 Teste técnico – Everymind – Jul/2025  
-Autor: <seu nome>
+Autor: Wanderson Conrado Lima
 
 ## ✨ Visão Geral
 Implementa uma _Pricing Extension_ para Salesforce B2B Commerce Cloud.  
-O preço de cada SKU é calculado dinamicamente por cliente, consultando um endpoint externo e armazenando em Platform Cache (TTL = 5 min).
+O preço de cada SKU é calculado por cliente, consultando um endpoint externo e armazenando em Platform Cache.
 
 ## 📂 Conteúdo do repositório
 | Pasta / Arquivo | Descrição |
