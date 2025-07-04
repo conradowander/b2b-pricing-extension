@@ -23,3 +23,6 @@ O preço de cada SKU é calculado por cliente, consultando um endpoint externo e
    ```bash
    git clone https://github.com/conradowander/b2b-pricing-extension.git
    cd b2b-pricing-extension
+
+3. Mais detalhes sobre os testes realizados estão no documento pdf do repositório.
+Link direto: https://github.com/conradowander/b2b-pricing-extension/blob/main/detalhes_pricingservice.pdf
